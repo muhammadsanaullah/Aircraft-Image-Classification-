@@ -6,3 +6,5 @@ These algorithms classify the types of aircraft based on image data and feature 
 
 This project was implemented as a semester project for the course "Statistical Learning and Data Analytics" at 
 the department of Electrical and Electronics Engineering at Bilkent University, Ankara, Turkey.
+
+
